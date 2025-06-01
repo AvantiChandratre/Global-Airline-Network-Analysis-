@@ -65,12 +65,4 @@ Our work integrates at least 5 techniques from 3+ CFA categories, as required by
 
 - `CFA_Final_Project.ipynb` – Full analysis code
 - `CFA_Project.docx` – Project report with all insights
-- `airports.dat`, `routes.dat` – Raw data (to be added manually if not hosted)
 
-## Sample Visuals
-
-> Include or link screenshots of your plotted figures (e.g., busiest airport graph, MST map, route selection bars)
-
-## Outcome
-
-This project demonstrates the power of CFA methodologies in modeling real-world systems and deriving actionable insights for global operations, route planning, and infrastructure investment.
